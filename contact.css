@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    justify-content: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.925);
+}
+.logo{
+        font-family:  'Arial Narrow';
+        position: absolute;
+        left: 2%;
+        top: 3%;
+    }
+.name{
+    color:blue;
+
+}
+.menu{
+    width: 400px;
+    height: 70px;
+    text-decoration: none;
+   
+}
+ul{
+    
+    align-items: center;
+    float: left;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 80%;
+    left: 20%;
+}
+ul li{
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2em;
+    padding: 5px;
+    border-color:black;
+    list-style: none;
+    margin-left: 64px;
+    font-size: 20px;
+    margin-top: 27%;
+}
+.contact1{
+  color: blue;
+}
+
+a:hover{
+   color: blue;
+}
+.image{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+}
+.titre{
+    position: absolute;
+    top: 35%;
+    left: 18%;
+    font-size: 305%;
+}
+.titre1{
+    color: white;
+}
+.titre0{
+    position: absolute;
+    top: 110%;
+    left: 42%;
+}
+    
+
+.h1{
+    position: absolute;
+    top: 125%;
+    left: 26%;
+    color: black;
+}
+.p1{
+    position: absolute;
+    top: 130%;
+    left: 25%;
+}
+.h2{
+    position: absolute;
+    top: 150%;
+    left: 26%;
+
+}
+.p2{
+    position: absolute;
+    top: 155%;
+    left: 25%;
+}
+.h3{
+    position: absolute;
+    top: 175%;
+    left: 26%;
+}
+.p3{
+    position: absolute;
+    top: 180%;
+    left: 25%;
+}
+.about{
+    color: blue;
+}
+.name1{
+    padding: 20px;
+    position: absolute;
+    top: 154%;
+    left: 50%;
+}  
+.email{
+    padding: 20px;
+    position: absolute;
+    top: 154%;
+    left: 70%;
+}
+.subject{
+    padding: 25px;
+    padding-left: 21%;
+    position: absolute;
+    top: 170%;
+    left: 50%;
+}
+.appreciation{
+    padding: 60px;
+    padding-left: 19%;
+    position: absolute;
+    top: 188%;
+    left: 50%;
+}
+.btn1{
+    position: absolute;
+    top: 210%;
+    left: 66%;
+    width: 240px;
+    height: 40px;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+
+}
+button{
+    font-size: 100%;
+    cursor: pointer;
+}
+button:hover{
+    background: rgba(0, 0, 255, 0.932);
+    color: gray;
+}
+.m1{
+    color:rgba(0, 0, 0, 0.918);
+}    
+footer{
+    background: gainsboro;
+    height: 200px;
+    width: 1349px;
+    font-family:'Arial Narrow';
+    padding-top: 40px;
+    color: white;
+    position: absolute;
+    top: 228%;
+}
+.icon{
+    position: absolute;
+    left: 39%;
+    top: 39%;
+}
+.icon1{
+    position:absolute;
+    top: 42%;
+    left: 46%;
+}
+.icon2{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+}
+.icon3{
+    position:absolute;
+    top: 42%;
+    left: 58%;
+}
+.mvondo{
+    position: absolute;
+    top: 75%;
+    left: 39%;
+    font-size: 135%;
+}
+.general{
+    font-family:'Arial Narrow';
+    font-size: 130%;
+    position: absolute;
+    left: 2%;
+}
+.g1{
+    color: blue;
+}

@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    justify-content: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+}
+header{
+    
+}
+.logo{
+    font-family:  'Arial Narrow';
+    position: absolute;
+    left: 2%;
+    top: 3%;
+}
+.name{
+    color: blue;
+}
+.menu{
+    width: 400px;
+    height: 70px;
+    text-decoration: none;
+}
+ul{
+    align-items: center;
+    float: left;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 80%;
+    left: 20%;
+}
+ul li{
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2em;
+    padding: 5px;
+    border-color:black;
+    list-style: none;
+    margin-left: 64px;
+    font-size: 20px;
+    margin-top: 27%;
+}
+.home1{
+    color: blue;
+}
+a:hover{
+    color: blue;
+}
+
+.image{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+}
+.titre{
+    position: absolute;
+    top: 60%;
+    left: 18%;
+    font-size: 305%;
+}
+.titre1{
+    color: white;
+}
+.service{
+    position: absolute;
+    top: 125%;
+    left: 38%;
+    font-size: 120%;
+   
+}
+.service1{
+    color: blue;
+}
+.transport{
+    position: absolute;
+    top: 135%;
+    left: 33%;
+}
+.t1{
+    color: black;
+}
+.p1{
+    position: absolute;
+    top: 140%;
+    left: 33%;
+    font-size: 120%;
+}
+.messagerie{
+    position: absolute;
+    top: 160%;
+    left: 33%;
+}
+.m1{
+    color: black;
+}
+.p2{
+    position: absolute;
+    top: 165%;
+    left: 33%;
+    font-size: 120%;
+}
+.bus{
+    position: absolute;
+    top: 180%;
+    left: 33%;
+}
+.b1{
+    color: black;
+}
+.p3{
+    position: absolute;
+    top: 185%;
+    left: 33%;
+    font-size: 120%;
+}
+.chambre{
+    position: absolute;
+    top: 200%;
+    left: 33%;
+}
+.c1{
+    color: black;
+}
+.p4{
+    position: absolute;
+    top: 205%;
+    left: 33%;
+    font-size: 120%;
+}
+.livraison{
+    position: absolute;
+    top: 220%;
+    left: 33%;
+}
+.l1{
+    color: black;
+}
+.p5{
+    position: absolute;
+    top: 225%;
+    left: 33%;
+    font-size: 120%;
+}
+.imagetransport{
+    position: absolute;
+    top: 138%;
+    left: 65%;   
+}
+.imagemessage{
+    position: absolute;
+    top: 160%;
+    left: 65%;
+}
+.imagebus{
+    position: absolute;
+    top: 182%;
+    left: 65%;
+}
+.imagechambre{
+    position: absolute;
+    top: 204%;
+    left: 65%;
+}
+.imagelivraison{
+    position: absolute;
+    top: 226%;
+    left: 65%;
+}
+
+.pft{
+    color:black;
+    
+}
+footer{
+    background: gainsboro;
+    height: 200px;
+    width: 1349px;
+    font-family:'Arial Narrow';
+    padding-top: 40px;
+    color: white;
+    position: absolute;
+    top: 240%;
+}
+.icon{
+    position: absolute;
+    left: 39%;
+    top: 39%;
+}
+.icon1{
+    position:absolute;
+    top: 42%;
+    left: 46%;
+}
+.icon2{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+}
+.icon3{
+    position:absolute;
+    top: 42%;
+    left: 58%;
+}
+.mvondo{
+    position: absolute;
+    top: 75%;
+    left: 39%;
+    font-size: 135%;
+}
+.general{
+    font-family:'Arial Narrow';
+    font-size: 130%;
+    position: absolute;
+    left: 2%;
+}
+.g1{
+    color: blue;
+}

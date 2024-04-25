@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    justify-content: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.849);
+}
+header{
+    
+}
+.logo{
+    font-family:  'Arial Narrow';
+    position: absolute;
+    left: 2%;
+    top: 3%;
+}
+.name{
+    color: blue;
+}
+.menu{
+    width: 400px;
+    height: 70px;
+    text-decoration: none;
+}
+ul{
+    align-items: center;
+    float: left;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 80%;
+    left: 20%;
+}
+ul li{
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2em;
+    padding: 5px;
+    border-color:black;
+    list-style: none;
+    margin-left: 64px;
+    font-size: 20px;
+    margin-top: 27%;
+}
+.about1{
+    color: blue;
+}
+a:hover{
+    color: blue;
+}
+.image{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+}
+.titre{
+    position: absolute;
+    top: 60%;
+    left: 18%;
+    font-size: 305%;
+}
+.titre1{
+    color: white;
+}
+.about{
+    position: absolute;
+    top: 125%;
+    left: 38%;
+    font-size: 120%;
+}
+.a1{
+    color: blue;
+}
+.trip{
+    position: absolute;
+    top: 132%;
+    left: 36%;
+}
+.t1{
+    color: black;
+}
+.p1{
+    position: absolute;
+    top: 139%;
+    left: 3%;
+    font-size: 120%;
+}
+.titrebus{
+    position: absolute;
+    top: 165%;
+    left: 3%;
+    
+}
+.titrebus1{
+    color: black;
+    
+}
+.imagebus{
+    position: absolute;
+    top: 172%;
+    
+    left: 3%;
+}
+.imagebus1{
+    position: absolute;
+    top: 172%;
+    left: 50%;
+
+    
+}
+.imagebus2{
+    position: absolute;
+    top: 245%;
+    left: 3%;
+}
+.imagechambre1{
+    position: absolute;
+    top: 245%;
+    left: 50%;
+}
+.p2{
+    position: absolute;
+    top: 315%;
+    left: 3%;
+    font-size: 120%;
+}
+footer{
+    background: gainsboro;
+    height: 200px;
+    width: 1349px;
+    font-family:'Arial Narrow';
+    padding-top: 40px;
+    color: white;
+    position: absolute;
+    top: 335%;
+}
+.icon{
+    position: absolute;
+    left: 39%;
+    top: 39%;
+}
+.icon1{
+    position:absolute;
+    top: 42%;
+    left: 46%;
+}
+.icon2{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+}
+.icon3{
+    position:absolute;
+    top: 42%;
+    left: 58%;
+}
+.mvondo{
+    position: absolute;
+    top: 75%;
+    left: 39%;
+    font-size: 135%;
+}
+.general{
+    font-family:'Arial Narrow';
+    font-size: 130%;
+    position: absolute;
+    left: 2%;
+}
+.g1{
+    color: blue;
+}
